@@ -1,0 +1,5 @@
+{
+  "name": "ArthaAI - Indian Stock Market Advisor",
+  "description": "A sophisticated AI-driven platform providing personalized Indian stock market recommendations based on user demographics, income, and risk appetite, powered by Gemini 3 with Google Search grounding.",
+  "requestFramePermissions": []
+}
